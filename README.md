@@ -1,5 +1,6 @@
 # BESU NETWORK PROOF OF AUTHORITY (CLIQUE)
 
+git clone https://github.com/codecrypto-academy/besu-network-2025.git
 
 ## Create network
 ```sh
